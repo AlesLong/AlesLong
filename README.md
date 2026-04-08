@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlesLong
 - 👀 I’m interested in java beans
 - 🌱 I’m currently learning how to live
-- 💞️ I’m looking to collaborate on differently project
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me just knock-knock https://www.linkedin.com/in/yevheniy-bespalov-0b09b3202/
 
 
